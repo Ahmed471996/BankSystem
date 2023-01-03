@@ -1,5 +1,8 @@
 # Bank System 
 
+
+## Introduction 
+
 C Graduation Project Your mission is to implement IMT Bank System according to the following requirments. To Pass this Project a group of test cases must be passed. This project consist of 2 main features 1- Admin Window. 2- Client Window Bank Account Bank Account must include those information
 
 Full Name. You must enter at least first four names ex: Mohamed Salah Hamed Mahrous
@@ -34,3 +37,8 @@ Get Cash In this feature you will be asked to enter the cash amount you want fro
 Deposit in Account In this feature you will be asked to enter the cash amount you want to add to this account
 
 Return to main menu In this feature you will return to Admin Main Menu.
+
+
+# Future Work 
+
+Adding more features to the application 
